@@ -5,13 +5,13 @@ cmake_minimum_required(VERSION "3.17")
 # name of this example project
 project(opencvBuild)
 
-# configure cmake to C++ 17
-set(CMAKE_CXX_STANDARD 17)
-set(CMAKE_CXX_STANDARD_REQUIRED True)
-
 # set OpenCV_DIR variable equal to the path to the cmake
 # files within the previously installed opencv program
 set(OpenCV_DIR /Users/Oliver/Documents/CODING/Packages/opencv/install/lib/cmake/opencv4)
+
+# configure cmake to C++ 17
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # configure the necessary common CMake environment variables
 # needed to include and link the OpenCV program into this
