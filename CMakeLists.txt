@@ -7,7 +7,7 @@ project(opencvBuild)
 
 # set OpenCV_DIR variable equal to the path to the cmake
 # files within the previously installed opencv program
-set(OpenCV_DIR /Users/Oliver/Documents/CODING/Packages/opencv/install/lib/cmake/opencv4)
+set(OpenCV_DIR /Users/Oliver/Documents/CODING/Packages/opencv/install/lib/cmake/opencv4) # INPUT YOUR DIRECTORY OPENCV HERE!
 
 # configure cmake to C++ 17
 set(CMAKE_CXX_STANDARD 17)
