@@ -1,5 +1,5 @@
 # Repository Summary
-This repo aims to simplify the OpenCV 4.2.0 installation process for Intel based Mac OS users (for Python and C++).
+This repo aims to simplify the OpenCV 4.2.0 installation process for Intel based Mac OS users (for Python and C++). NOTE: THIS HAS NOW BEEN TESTED ON A M1 MAX MACBOOK PRO AND IT ALSO WORKS.
 
 # Instructions (For MacOS-Intel)
 1) Navigate to your chosen directory which you would like this folder to be saved locally using: 
