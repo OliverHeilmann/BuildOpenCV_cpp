@@ -8,6 +8,8 @@ project(opencvBuild)
 # set OpenCV_DIR variable equal to the path to the cmake
 # files within the previously installed opencv program
 set(OpenCV_DIR /Users/Oliver/Documents/CODING/Packages/opencv/install/lib/cmake/opencv4) # INPUT YOUR DIRECTORY OPENCV HERE!
+# set(OpenCV_DIR /opt/homebrew/Cellar/opencv/4.5.5_2/lib/cmake/opencv4) # this is my homebrew (apple silicon path!)
+
 
 # configure cmake to C++ 17
 set(CMAKE_CXX_STANDARD 17)
