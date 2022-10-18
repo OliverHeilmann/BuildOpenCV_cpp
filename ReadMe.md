@@ -1,5 +1,7 @@
 # Repository Summary
-This repo aims to simplify the OpenCV 4.2.0 installation process for Intel based Mac OS users (for Python and C++). NOTE: THIS HAS NOW BEEN TESTED ON A M1 MAX MACBOOK PRO AND IT ALSO WORKS.
+This repo aims to simplify the OpenCV 4.2.0 installation process for Intel based Mac OS users (for Python and C++). NOTE: This has now been tested on a m1 max Macbook Pro and it also works. For M1 architectures, installing OpenCV via Homebrew is likely the best bet, the path should look something like this:
+
+```/opt/homebrew/Cellar/opencv/4.5.5_2/lib/cmake/opencv4```
 
 # Instructions: (MacOS Intel or Apple Silicon)
 1) Navigate to your chosen directory which you would like this folder to be saved locally using: 
