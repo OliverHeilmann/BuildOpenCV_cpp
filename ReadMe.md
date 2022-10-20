@@ -20,6 +20,6 @@ sh OpenCV_builder.sh
 
 # Edit OpenCV path in CMakeLists.txt
 
-# Compile and Run
+# Compile and then Run
 sh App_builder.sh
 ```
