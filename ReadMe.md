@@ -12,6 +12,7 @@ git clone https://github.com/OliverHeilmann/BuildOpenCV_cpp.git
 3) Run [sh OpenCV_builder.sh](https://github.com/OliverHeilmann/BuildOpenCV_cpp/blob/main/App_builder.sh) in terminal (in a directory which you wish to install OpenCV in). Note that this script will install Homebrew for you if you do not already have it installed.
 4) Go into [CMakeLists.txt](https://github.com/OliverHeilmann/BuildOpenCV_cpp/blob/main/CMakeLists.txt) and change line 10 to your chosen OpenCV directory. This is so that the the program knows where the relevant header files/ libraries are at compile time.
 5) Run [sh App_builder.sh](https://github.com/OliverHeilmann/BuildOpenCV_cpp/blob/main/OpenCV_builder.sh) in terminal (of the git repository directory) to compile, build and run the script. If no errors are thrown, your integrated laptop webcam (or USB detectable webcam) will be displayed in a window. Press _'esc'_ to close the window.
+6) Use CMake Tools for debugging.
 
 In summary:
 ```text
