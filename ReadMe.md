@@ -15,7 +15,7 @@ git clone https://github.com/OliverHeilmann/BuildOpenCV_cpp.git
 6) Use CMake Tools for debugging.
 
 In summary:
-```text
+```sh
 # Build OpenCV
 sh OpenCV_builder.sh
 
